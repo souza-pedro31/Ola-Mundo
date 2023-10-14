@@ -1,2 +1,2 @@
-# OlaMundo
-Meu primeiro repositório remoto
+# Olá, Mundo!
+Meu primeiro repositório remoto usando GitHub.
